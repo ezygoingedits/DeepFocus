@@ -1,0 +1,6 @@
+{
+  "name": "Deepfocus",
+  "description": "A mobile-first personal productivity and self-discipline app with a dark, minimal, distraction-free design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
